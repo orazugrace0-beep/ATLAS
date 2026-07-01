@@ -1,0 +1,2 @@
+APP_NAME = "Atlas"
+APP_VERSION = "0.1.0"
